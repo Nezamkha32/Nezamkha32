@@ -1,12 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohammad%20Nezam%20Uddin&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Web%20Developer.&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Nezamkha32">
     <img src="https://komarev.com/ghpvc/?username=Nezamkha32&label=Profile%20views&color=00FFFF&style=flat-square" alt="Nezamkha32's profile views" />
   </a>
 </p>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+
+
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -70,24 +77,9 @@
 
 
 
-## Hi there 👋
 <img width="1584" height="396" alt="Purple And Yellow Modern Profile LinkedIn Background Photo" src="https://github.com/user-attachments/assets/b492fbdf-c173-4ebc-b029-bb8cefc90732" />
 
 
-<!--
-**Nezamkha32/Nezamkha32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Mohammad Nezam Uddin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nezamkha32&label=Profile%20views&color=0e75b6&style=flat" alt="nezamkha32" /> </p>
